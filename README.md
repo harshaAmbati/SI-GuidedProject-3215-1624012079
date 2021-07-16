@@ -5,5 +5,4 @@ With the advent of OCR techniques, much time has been saved by automatically ext
 
 The project aims at creating an application form where the user can upload a pdf document/Image containing text, the document is analyzed by an Optical character recognition (OCR) to extract text from it. The extracted text is again saved in a text document in the local drive.
 
-By: Guddati Manikanta, 18481A1234<br>
-Team: IT_AIML_A06
+Team: IT_AIML_A06.
