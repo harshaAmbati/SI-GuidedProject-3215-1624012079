@@ -7,4 +7,4 @@ The project aims at creating an application form where the user can upload a pdf
 
 <h2>Team: IT_AIML_A06</h2><br>
 18481A1237 - Harshavardhan Ambati.<br>
-18481A1237 - Guddati Manikanta.
+18481A1234 - Guddati Manikanta.
